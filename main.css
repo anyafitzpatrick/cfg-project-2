@@ -1,0 +1,14 @@
+
+body {background-color: lightpink
+}
+  h1 {
+  color: mediumvioletred;
+  background-color: lightpink;
+  font-family: "Palatino Linotype", serif;
+  font-size: 60pt;
+}
+p {
+ font-family: "Palatino", serif ;
+ font-size: 12pt;
+ color: midnightblue;
+}
